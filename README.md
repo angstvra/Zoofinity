@@ -23,9 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/angstvra/Zoofinity/assets/93997417/79655c6b-8e24-4f54-8614-0e31647b217e" width="200" height="450">
 <img src="https://github.com/angstvra/Zoofinity/assets/93997417/0a634279-f78f-4e72-ada8-429522d4bf30" width="200" height="450">
 <img src="https://github.com/angstvra/Zoofinity/assets/93997417/2bb68264-0772-4085-a4c0-6ef7ccfdb4da" width="200" height="450">
-<img src="https://github.com/angstvra/Zoofinity/assets/93997417/2bb68264-0772-4085-a4c0-6ef7ccfdb4da" width="200" height="450">
-![6](https://github.com/angstvra/Zoofinity/assets/93997417/2bb68264-0772-4085-a4c0-6ef7ccfdb4da)
-![5](https://github.com/angstvra/Zoofinity/assets/93997417/0a634279-f78f-4e72-ada8-429522d4bf30)
+
 
 
 
