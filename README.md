@@ -1,19 +1,13 @@
 # Zoofinity
 
-A new Flutter project.
+<p>Zoofinity is an interactive mobile application specifically developed for children to promote education about the unique wildlife species and their natural habitats in the Philippines. The app provides an engaging learning experience through various features, including detailed information about different animals and their specific ecosystems and an exciting quiz game that enables children to test their knowledge.</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Key Features
+<ul>
+  <li>Detailed Information: Zoofinity offers comprehensive and age-appropriate information about various animals found in the Philippines, including their behaviors, habitats, and conservation status. This feature allows children to explore and learn about the fascinating world of wildlife in an engaging and informative manner.</li>
+  <li>Ecosystem Exploration: Through Zoofinity, children can delve into the specific ecosystems where these animals thrive. The app provides insights into the interconnectedness of different species within their habitats, fostering a deeper understanding of the delicate balance of nature.</li>
+  <li>Quiz Game: Zoofinity includes an exciting quiz game that enables children to test their knowledge about wildlife and ecosystems. This interactive feature encourages active learning and reinforces the information presented in the app, making the educational experience both enjoyable and rewarding.</li>
+</ul>
 
 ## Snapshot
 
