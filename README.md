@@ -18,6 +18,15 @@
 <img src="https://github.com/angstvra/Zoofinity/assets/93997417/0a634279-f78f-4e72-ada8-429522d4bf30" width="400" height="450">
 <img src="https://github.com/angstvra/Zoofinity/assets/93997417/2bb68264-0772-4085-a4c0-6ef7ccfdb4da" width="200" height="450">
 
+# How to run
+```
+  mkdir project
+  cd project
+  git clone https://github.com/angstvra/Zoofinity.git
+  cd zoofinity
+  flutter run
+```
+
 
 
 
